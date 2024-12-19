@@ -1,0 +1,41 @@
+
+		<!DOCTYPE html>
+		<html lang="en">
+			<head>
+				<meta charset="UTF-8" />
+				<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+				<title>Temporary Website</title>
+				<link rel="stylesheet" href="https://mesmeric-millet-8wcvl.zipwp.site/wp-content/mu-plugins/zipwp-client-mu/inc/admin/assets/css/site-protection.css">
+			</head>
+			<body>
+				<div class="zipwp-container">
+					<div class="zipwp-row">
+						<div class="zipwp-content">
+							<div class="zipwp-login-container">
+								<div class="zipwp-inner-container">
+									<div class="zipwp-row">
+										<div class="zipwp-content-wrap">
+											<img alt="lock" src="https://mesmeric-millet-8wcvl.zipwp.site/wp-content/mu-plugins/zipwp-client-mu/inc/admin/assets/images/lock-icon.svg" class="zipwp-password-icon">
+											<h2 class="zipwp-heading">This website is temporary and not intended for live traffic usage.</h3>
+											<p class="zipwp-text">To proceed, kindly type <b>“ok”</b> in the box below.</p>
+											<form class="zipwp-submit-form" id="zipwp-submit-form">
+												<input id="zipwp-input" type="text" placeholder="Enter ok" required="" autofocus="" class="zipwp-form-control">
+												<p class="zipwp-error-message">The text you entered does not match "ok" Please try again.</p>
+												<button type="submit"  class="zipwp-btn zipwp-submit-btn">Submit</button>
+												<p class="zipwp-footer-text">Powered by <a target="_blank" href="https://zipwp.com/">ZipWP</a></p>
+											</form>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="zipwp-image"></div>
+					</div>
+				</div>
+				<input type="hidden" name="zipwp_site_protection_nonce" value="59f009bd92">
+				<div id="zipwp-data" data-url="https://mesmeric-millet-8wcvl.zipwp.site/wp-admin/admin-ajax.php"></div>
+				<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+				<script src="https://mesmeric-millet-8wcvl.zipwp.site/wp-content/mu-plugins/zipwp-client-mu/inc/admin/assets/js/site-protection.js"></script>
+			</body>
+		</html>
+		
